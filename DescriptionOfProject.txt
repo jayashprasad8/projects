@@ -1,1 +1,5 @@
 				ENCRYPTION AND DECRYPTION OF TEXT FILE USING C PROGRAMMING
+
+	In a world full of data risk and hacking, it is essential for a person to encrypt their files into a more secure and safe file. This can be done using encryption of data using simple C programming. The encrypted data can also be decrypted by applying the reverse logic on the encrypted file using same C programming. 
+
+	My Project also deals with encryption and decryption of data in a very few easy steps using simple C programming file handling concepts. 
